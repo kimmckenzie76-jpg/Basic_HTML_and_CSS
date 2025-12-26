@@ -16,6 +16,11 @@ Basic_HTML_3.html
         p {
             color: teal;
         }
+
+        h2 {
+            color: darkred;
+            text-align: center;
+        }
     </style>
 </head>
 
@@ -28,6 +33,10 @@ Basic_HTML_3.html
     <p>
         This paragraph uses a different font color.
     </p>
+
+    <h2>
+        This is my new styled heading.
+    </h2>
 
 </body>
 </html>
