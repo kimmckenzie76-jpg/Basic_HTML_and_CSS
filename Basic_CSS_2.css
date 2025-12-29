@@ -3,3 +3,13 @@
     font-size: 36px;
     text-shadow: 2px 2px 4px gray;
 }
+
+ol {
+    color: darkgreen;
+    font-size: 18px;
+}
+
+ul {
+    color: darkred;
+    font-size: 18px;
+}
